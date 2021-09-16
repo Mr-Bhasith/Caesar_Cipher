@@ -16,11 +16,11 @@ Here, every letter is replaced with an alphabet that comes to two places after t
 
 python caesar cipher.py encrypt
 
-## To Decrypt a Message use 'decrypt'as an argument in your command:
+### To Decrypt a Message use 'decrypt'as an argument in your command:
 
 python caesar cipher.py decrypt
 
-## To see more about the script use --help or -h:
+### To see more about the script use --help or -h:
 
 python caesar cipher.py --help
 
