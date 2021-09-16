@@ -4,7 +4,7 @@ Caesar Cipher is one of the earliest encryption techniques known to humankind. I
 
 ![](https://cdn-images-1.medium.com/max/1600/1*5oAa58b3CtFqzZqJByr-2g.jpeg)
 
-## Look at the following example:
+### Look at the following example:
 
 o FRUIT; Shift 2 -> HTWKV
 
@@ -12,7 +12,7 @@ Here, every letter is replaced with an alphabet that comes to two places after t
 
 # Script commands:
 
-## To Encrypt a Message use 'encrypt' as an argument in your command:
+### To Encrypt a Message use 'encrypt' as an argument in your command:
 
 python caesar cipher.py encrypt
 
