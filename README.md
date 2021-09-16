@@ -2,6 +2,8 @@
 
 Caesar Cipher is one of the earliest encryption techniques known to humankind. It was used by Julius Caesar to talk to his loyal members without others understanding the message.
 
+![](https://cdn-images-1.medium.com/max/1600/1*5oAa58b3CtFqzZqJByr-2g.jpeg)
+
 ## Look at the following example:
 
 o FRUIT; Shift 2 -> HTWKV
